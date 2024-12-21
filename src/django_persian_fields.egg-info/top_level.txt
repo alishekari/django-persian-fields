@@ -1,1 +1,1 @@
-django-persian-fields
+django_persian_fields
